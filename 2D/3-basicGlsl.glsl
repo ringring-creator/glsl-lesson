@@ -1,5 +1,5 @@
-#version 300 es //Specify glsl version (GLSL ES 3.0)
-precision highp float; //Specify floating point precision
+#version 300 es
+precision highp float;
 out vec4 fragColor;
 uniform vec2 u_resolution; //view port resolution
 
